@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrangHRM">
+  <test name="OrangHRM_2">
+	  <classes><class name="testClass.adminPageRunner"></class></classes>
+  </test> 
+</suite>
